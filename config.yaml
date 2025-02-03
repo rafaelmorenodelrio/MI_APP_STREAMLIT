@@ -1,0 +1,11 @@
+cookie:
+  expiry_days: 1
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin
+      password: password
+preauthorized:
+  emails:
+  - admin@example.com
